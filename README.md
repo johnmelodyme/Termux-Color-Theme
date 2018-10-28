@@ -7,7 +7,7 @@ Installation :
 
 2: apt install git 
 
-3: git clone
+3: git clone https://github.com/tadasny/Termux-Color-Theme.git
 
 4: cd Termux-Color-Theme
 
@@ -15,7 +15,7 @@ Installation :
 
 To Run the script:
 
-$ ./install.sh
+$ ./start.sh
 
 1: Now select theme = type number
 
