@@ -1,3 +1,4 @@
+___________________________________________________________________
 Whit this script, you guys can easily change termux user interface!
 
 Installation :
@@ -21,3 +22,4 @@ $ ./install.sh
 2: Now select font = type number 
 
 Now your Termux interface hasbeen changed!
+___________________________________________________________________
