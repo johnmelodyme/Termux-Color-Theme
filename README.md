@@ -1,0 +1,3 @@
+# linux_program_start_tadasny_1
+# linux_program_start_tadasny_1
+# linux_program_start_tadasny_1
