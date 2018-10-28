@@ -7,9 +7,9 @@ Installation :
 
 2: apt install git 
 
-3: git clone https://github.com/Cabbagec/termux-ohmyzsh
+3: git clone
 
-4: cd termux-ohmyzsh
+4: cd Termux-Color-Theme
 
 5: chmod +x *
 
